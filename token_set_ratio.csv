@@ -1,0 +1,241 @@
+CountryData1,CountryData2,Result,Similarity,Similarities
+Afghanistan,Afghanistan,True,100,{None}
+Akrotiri,Austria,False,53,"{'Argentina': 47, 'Australia': 47, 'Austria': 53, 'Costa Rica': 44, 'Croatia': 53, 'East Timor': 44, 'Eswatini': 50, 'Haiti': 46, 'Ivory Coast': 42, 'Kiribati': 50, 'North Korea': 42, 'South Korea': 42, 'Latvia': 43, 'Mauritania': 44, 'Mauritius': 47, 'Qatar': 46, 'Sri Lanka': 47}"
+Albania,Albania,True,100,{None}
+Algeria,Algeria,True,100,{None}
+American Samoa,Samoa,True,100,{None}
+Andorra,Andorra,True,100,{None}
+Angola,Angola,True,100,{None}
+Anguilla,Angola,False,71,"{'Afghanistan': 42, 'Albania': 53, 'Algeria': 53, 'Angola': 71, 'Argentina': 47, 'Armenia': 53, 'Australia': 47, 'Austria': 53, 'Bangladesh': 56, 'Brazil': 43, 'Canada': 43, 'Gambia': 43, 'Ghana': 46, 'Guatemala': 47, 'Guinea': 57, 'Guinea-Bissau': 48, 'Guyana': 43, 'India': 46, 'Latvia': 43, 'Lithuania': 47, 'Malawi': 43, 'Malta': 46, 'Mauritania': 44, 'Mongolia': 50, 'Nicaragua': 47, 'Nigeria': 53, 'Palau': 46, 'Panama': 43, 'Paraguay': 50, 'Romania': 53, 'Russia': 43, 'Rwanda': 43, 'Somalilanda': 42, 'Taiwan': 43, 'Tanzania': 50, 'Thailand': 50, 'Tonga': 46, 'Uganda': 43, 'Vanuatu': 53, 'Venezuela': 47, 'Zambia': 43}"
+Antigua and Barbuda,Antigua and Barbuda,True,100,{None}
+Argentina,Argentina,True,100,{None}
+Armenia,Armenia,True,100,{None}
+Aruba,Cuba,False,67,"{'Abkhaziaa': 43, 'Albania': 50, 'Algeria': 50, 'Andorra': 50, 'Argentina': 43, 'Armenia': 50, 'Artsakha': 46, 'Australia': 43, 'Austria': 50, 'Azerbaijan': 53, 'Bahrain': 50, 'Barbados': 62, 'Belarus': 50, 'Bulgaria': 46, 'Cambodia': 46, 'Cuba': 67, 'Gambia': 55, 'Iran': 44, 'Iraq': 44, 'Kiribati': 46, 'Mauritius': 43, 'Namibia': 50, 'Nauru': 60, 'Nicaragua': 57, 'Paraguay': 62, 'Peru': 44, 'Portugal': 46, 'Russia': 55, 'Saudi Arabia': 47, 'Serbia': 55, 'Uruguay': 50, 'Vanuatu': 50, 'Zambia': 55}"
+Australia,Australia,True,100,{None}
+Austria,Austria,True,100,{None}
+Azerbaijan,Azerbaijan,True,100,{None}
+Bahamas The,Bahamas,True,100,{None}
+Bahrain,Bahrain,True,100,{None}
+Bangladesh,Bangladesh,True,100,{None}
+Barbados,Barbados,True,100,{None}
+Belarus,Belarus,True,100,{None}
+Belgium,Belgium,True,100,{None}
+Belize,Belize,True,100,{None}
+Benin,Benin,True,100,{None}
+Bermuda,Belarus,False,57,"{'Algeria': 43, 'Armenia': 43, 'Bahamas': 43, 'Bahrain': 43, 'Belarus': 57, 'Belgium': 43, 'Bhutan': 46, 'Brazil': 46, 'Brunei': 46, 'Burundi': 57, 'Denmark': 43, 'Ecuador': 43, 'Eritrea': 43, 'Georgia': 43, 'Germany': 57, 'Grenada': 43, 'Jordan': 46, 'Liberia': 57, 'Moldova': 43, 'Nigeria': 43, 'Peru': 55, 'Romania': 43, 'Russia': 46, 'Rwanda': 46, 'Serbia': 46, 'Sudan': 50, 'Uganda': 46, 'Uruguay': 43}"
+Bhutan,Bhutan,True,100,{None}
+Bolivia,Bolivia,True,100,{None}
+Bosnia and Herzegovina,Bosnia and Herzegovina,True,100,{None}
+Botswana,Botswana,True,100,{None}
+Brazil,Brazil,True,100,{None}
+British Virgin Islands,Cook Islands,False,74,"{'Bosnia and Herzegovina': 41, 'Christmas Island': 58, 'Cocos (Keeling) Islands': 56, 'Cook Islands': 74, 'Guinea-Bissau': 51, 'Marshall Islands': 61, 'Netherlands': 42, 'Norfolk Island': 44, 'Saint Kitts and Nevis': 42, 'Saint Vincent and the Grenadines': 41, 'Saudi Arabia': 41, 'Solomon Islands': 64, 'Thailand': 47}"
+Brunei,Brunei,True,100,{None}
+Bulgaria,Bulgaria,True,100,{None}
+Burkina Faso,Burkina Faso,True,100,{None}
+Burma,Myanmar (Burma),True,100,{None}
+Burundi,Burundi,True,100,{None}
+Cabo Verde,Cape Verde,False,80,"{'Bosnia and Herzegovina': 44, 'Cambodia': 56, 'Cameroon': 44, 'Cape Verde': 80, 'Chad': 43, 'Ecuador': 47, 'Ivory Coast': 48, 'Singapore': 42, 'Trinidad and Tobago': 41}"
+Cambodia,Cambodia,True,100,{None}
+Cameroon,Cameroon,True,100,{None}
+Canada,Canada,True,100,{None}
+Cayman Islands,Cook Islands,False,74,"{'Afghanistan': 56, 'Albania': 48, 'Armenia': 48, 'Azerbaijan': 42, 'Bangladesh': 50, 'Cambodia': 45, 'Canada': 50, 'Christmas Island': 67, 'Cocos (Keeling) Islands': 67, 'Cook Islands': 74, 'Costa Rica': 42, 'Finland': 48, 'Guatemala': 43, 'Iceland': 48, 'Ireland': 48, 'Jamaica': 48, 'Kazakhstan': 42, 'Malaysia': 45, 'Maldives': 45, 'Malta': 42, 'Marshall Islands': 67, 'Mauritania': 42, 'Netherlands': 48, 'New Zealand': 48, 'Norfolk Island': 43, 'North Macedonia': 41, 'Pakistan': 45, 'Romania': 48, 'Saint Lucia': 48, 'San Marino': 58, 'Saudi Arabia': 46, 'Solomon Islands': 69, 'Somalilanda': 56, 'Tajikistan': 42, 'Tanzania': 45, 'Thailand': 55, 'Turkmenistan': 46, 'United Arab Emirates': 41, 'Vatican City': 46}"
+Central African Republic,Central African Republic,True,100,{None}
+Chad,Chad,True,100,{None}
+Chile,Chile,True,100,{None}
+China,China,True,100,{None}
+Christmas Island,Christmas Island,True,100,{None}
+Cocos (Keeling) Islands,Cocos (Keeling) Islands,True,100,{None}
+Colombia,Colombia,True,100,{None}
+Comoros,Comoros,True,100,{None}
+Congo Democratic Republic of the,Democratic Republic of the Congo,True,100,{None}
+Congo Republic of the,Democratic Republic of the Congo,True,100,{None}
+Cook Islands,Cook Islands,True,100,{None}
+Costa Rica,Costa Rica,True,100,{None}
+Cote d'Ivoire,Ivory Coast,False,67,"{'Cape Verde': 52, 'Costa Rica': 43, 'East Timor': 43, 'El Salvador': 42, 'Ivory Coast': 67, 'North Korea': 42, 'North Macedonia': 43}"
+Croatia,Croatia,True,100,{None}
+Cuba,Cuba,True,100,{None}
+Curacao,Croatia,False,57,"{'Australia': 50, 'Austria': 43, 'Burkina Faso': 53, 'Canada': 46, 'Comoros': 43, 'Costa Rica': 47, 'Croatia': 57, 'Cuba': 55, 'Ecuador': 57, 'France': 46, 'Grenada': 43, 'Guyana': 46, 'Jamaica': 43, 'Mauritania': 47, 'Monaco': 46, 'Morocco': 43, 'Nicaragua': 50, 'Romania': 43, 'Rwanda': 46, 'South Africa': 42, 'Uganda': 46, 'Ukraine': 43, 'Uruguay': 43, 'Vatican City': 42}"
+Cyprus,Cyprus,True,100,{None}
+Czechia,China,False,67,"{'Algeria': 43, 'Armenia': 43, 'Azerbaijan': 47, 'Chad': 55, 'Chile': 50, 'China': 67, 'Croatia': 43, 'Czech Republic': 57, 'Ecuador': 43, 'Eritrea': 43, 'Estonia': 43, 'Ethiopia': 53, 'Georgia': 43, 'Iceland': 43, 'Liberia': 43, 'Nigeria': 43, 'Serbia': 46, 'Uzbekistan': 47, 'Zambia': 46}"
+Denmark,Denmark,True,100,{None}
+Dhekelia,Tokelau,False,53,"{'Belize': 43, 'China': 46, 'India': 46, 'Indonesia': 47, 'Kenya': 46, 'Latvia': 43, 'Libya': 46, 'Netherlands': 42, 'New Zealand': 42, 'Serbia': 43, 'Tokelau': 53, 'Uzbekistan': 44, 'Venezuela': 47}"
+Djibouti,Djibouti,True,100,{None}
+Dominica,Dominica,True,100,{None}
+Dominican Republic,Dominican Republic,True,100,{None}
+Ecuador,Ecuador,True,100,{None}
+Egypt,Egypt,True,100,{None}
+El Salvador,El Salvador,True,100,{None}
+Equatorial Guinea,Equatorial Guinea,True,100,{None}
+Eritrea,Eritrea,True,100,{None}
+Estonia,Estonia,True,100,{None}
+Eswatini,Eswatini,True,100,{None}
+Ethiopia,Ethiopia,True,100,{None}
+European Union,Equatorial Guinea,False,52,"{'Argentina': 43, 'Azerbaijan': 42, 'Benin': 42, 'Burundi': 48, 'Cameroon': 45, 'East Timor': 42, 'Equatorial Guinea': 52, 'North Korea': 48, 'Lebanon': 48, 'Mauritania': 42, 'North Macedonia': 41, 'Romania': 48, 'Spain': 42, 'Turkmenistan': 46, 'Ukraine': 48, 'United Arab Emirates': 41}"
+Falkland Islands (Islas Malvinas),Cook Islands,False,74,"{'Antigua and Barbuda': 44, 'Bosnia and Herzegovina': 49, 'Christmas Island': 43, 'Cocos (Keeling) Islands': 50, 'Cook Islands': 74, 'Marshall Islands': 61, 'Saint Kitts and Nevis': 50, 'Saint Vincent and the Grenadines': 44, 'Solomon Islands': 64}"
+Faroe Islands,Cook Islands,False,74,"{'Afghanistan': 50, 'Angola': 42, 'Argentina': 45, 'Armenia': 50, 'Azerbaijan': 43, 'Bangladesh': 43, 'Barbados': 48, 'Christmas Island': 55, 'Cocos (Keeling) Islands': 70, 'Cook Islands': 74, 'El Salvador': 50, 'Finland': 60, 'France': 42, 'Iceland': 50, 'Ireland': 60, 'Marshall Islands': 70, 'Mauritania': 43, 'Federated States of Micronesia': 42, 'Netherlands': 50, 'New Zealand': 50, 'Norfolk Island': 44, 'Pakistan': 48, 'Poland': 53, 'Rwanda': 42, 'Saint Lucia': 42, 'San Marino': 61, 'Saudi Arabia': 48, 'Solomon Islands': 70, 'Somalilanda': 50, 'South Sudan': 42, 'Switzerland': 42, 'Taiwan': 42, 'Tajikistan': 43, 'Thailand': 57, 'Turkmenistan': 48, 'United Arab Emirates': 42, 'Uzbekistan': 43}"
+Fiji,Fiji,True,100,{None}
+Finland,Finland,True,100,{None}
+France,France,True,100,{None}
+French Polynesia,Indonesia,False,56,"{'Armenia': 43, 'Colombia': 42, 'Czech Republic': 47, 'Estonia': 43, 'Ethiopia': 42, 'France': 45, 'Indonesia': 56, 'Liechtenstein': 41, 'Malaysia': 42, 'Federated States of Micronesia': 43, 'Mongolia': 42, 'Romania': 43, 'Seychelles': 46, 'Sierra Leone': 50, 'Transnistriaa': 41}"
+Gabon,Gabon,True,100,{None}
+Gambia The,Gambia,True,100,{None}
+Gaza Strip,Sri Lanka,False,63,"{'Australia': 53, 'Austria': 59, 'Bulgaria': 44, 'Kazakhstan': 50, 'Malaysia': 44, 'Palestine': 42, 'Saudi Arabia': 45, 'South Africa': 45, 'South Ossetiaa': 42, 'Sri Lanka': 63, 'Tanzania': 44, 'Transnistriaa': 43, 'Trinidad and Tobago': 41}"
+Georgia,Georgia,True,100,{None}
+Germany,Germany,True,100,{None}
+Ghana,Ghana,True,100,{None}
+Gibraltar,Malta,False,57,"{'Australia': 44, 'Bangladesh': 42, 'Belarus': 50, 'Brazil': 53, 'Bulgaria': 47, 'Croatia': 50, 'Ghana': 43, 'Grenada': 50, 'Guatemala': 44, 'Iran': 46, 'Iraq': 46, 'Ireland': 50, 'Israel': 53, 'Italy': 43, 'Kiribati': 47, 'Liberia': 50, 'Libya': 43, 'Madagascar': 42, 'Malta': 57, 'Myanmar (Burma)': 45, 'Nicaragua': 44, 'Palau': 43, 'Qatar': 57}"
+Greece,Greece,True,100,{None}
+Greenland,Grenada,False,75,"{'Argentina': 44, 'Armenia': 50, 'Bangladesh': 42, 'Benin': 43, 'Finland': 62, 'Gabon': 43, 'Germany': 50, 'Ghana': 43, 'Greece': 53, 'Grenada': 75, 'Guatemala': 44, 'Iceland': 62, 'Iran': 46, 'Ireland': 75, 'Kenya': 43, 'Netherlands': 60, 'New Zealand': 60, 'Poland': 53, 'Rwanda': 53, 'San Marino': 42, 'Switzerland': 50, 'Thailand': 47, 'Turkmenistan': 48, 'Uganda': 53, 'Venezuela': 44, 'Yemen': 43}"
+Grenada,Grenada,True,100,{None}
+Guam,Guatemala,False,62,"{'Belgium': 55, 'Cuba': 50, 'Gabon': 44, 'Gambia': 60, 'Ghana': 44, 'Guatemala': 62, 'Guinea': 60, 'Guyana': 60, 'Nicaragua': 46, 'Paraguay': 50, 'Samoa': 44, 'Sudan': 44, 'Suriname': 50, 'Tonga': 44, 'Uruguay': 55}"
+Guatemala,Guatemala,True,100,{None}
+Guernsey,Germany,False,67,"{'Brunei': 43, 'France': 43, 'Germany': 67, 'Greece': 43, 'Guinea': 57, 'Guyana': 43, 'Kenya': 46, 'Netherlands': 42, 'Niger': 46, 'Papua New Guinea': 42, 'Suriname': 50, 'Turkey': 57, 'Ukraine': 53}"
+Guinea,Equatorial Guinea,True,100,{None}
+Guinea-Bissau,Guinea,True,100,{None}
+Guyana,Guyana,True,100,{None}
+Haiti,Haiti,True,100,{None}
+Holy See (Vatican City),Vatican City,True,100,{None}
+Honduras,Honduras,True,100,{None}
+Hong Kong,Mongolia,False,47,"{'Gabon': 43, 'Mongolia': 47, 'Montenegro': 42, 'Togo': 46, 'Tonga': 43}"
+Hungary,Hungary,True,100,{None}
+Iceland,Iceland,True,100,{None}
+India,India,True,100,{None}
+Indonesia,Indonesia,True,100,{None}
+Iran,Iran,True,100,{None}
+Iraq,Iraq,True,100,{None}
+Ireland,Ireland,True,100,{None}
+Isle of Man,Norfolk Island,False,64,"{'Cook Islands': 43, 'Finland': 44, 'Germany': 44, 'Iceland': 44, 'Ireland': 44, 'Lebanon': 56, 'Marshall Islands': 44, 'Norfolk Island': 64, 'Pakistan': 42, 'Slovenia': 42, 'Solomon Islands': 54, 'Thailand': 42}"
+Israel,Israel,True,100,{None}
+Italy,Italy,True,100,{None}
+Jamaica,Jamaica,True,100,{None}
+Japan,Japan,True,100,{None}
+Jersey,Turkey,False,50,"{'Belarus': 46, 'Eritrea': 46, 'Germany': 46, 'Turkey': 50}"
+Jordan,Jordan,True,100,{None}
+Kazakhstan,Kazakhstan,True,100,{None}
+Kenya,Kenya,True,100,{None}
+Kiribati,Kiribati,True,100,{None}
+Korea North,North Korea,True,100,{None}
+Korea South,South Korea,True,100,{None}
+Kosovo,Kosovoa,False,92,"{'Comoros': 46, 'Ivory Coast': 47, 'South Korea': 47, 'Kosovoa': 92, 'Lesotho': 46, 'Moldova': 46, 'Morocco': 46, 'Slovakia': 43, 'Slovenia': 43}"
+Kuwait,Kuwait,True,100,{None}
+Kyrgyzstan,Kyrgyzstan,True,100,{None}
+Laos,Laos,True,100,{None}
+Latvia,Latvia,True,100,{None}
+Lebanon,Lebanon,True,100,{None}
+Lesotho,Lesotho,True,100,{None}
+Liberia,Liberia,True,100,{None}
+Libya,Libya,True,100,{None}
+Liechtenstein,Liechtenstein,True,100,{None}
+Lithuania,Lithuania,True,100,{None}
+Luxembourg,Luxembourg,True,100,{None}
+Macau,Jamaica,False,67,"{'Chad': 44, 'Cuba': 44, 'Dominica': 46, 'Guatemala': 43, 'Jamaica': 67, 'Madagascar': 53, 'Malawi': 55, 'Malaysia': 46, 'Mali': 44, 'Malta': 60, 'Mauritius': 43, 'Monaco': 55, 'Nicaragua': 43, 'Oman': 44, 'Palau': 60, 'Paraguay': 46, 'Romania': 50, 'Somalia': 50, 'South Africa': 47, 'Vanuatu': 50}"
+Madagascar,Madagascar,True,100,{None}
+Malawi,Malawi,True,100,{None}
+Malaysia,Malaysia,True,100,{None}
+Maldives,Maldives,True,100,{None}
+Mali,Mali,True,100,{None}
+Malta,Malta,True,100,{None}
+Marshall Islands,Marshall Islands,True,100,{None}
+Mauritania,Mauritania,True,100,{None}
+Mauritius,Mauritius,True,100,{None}
+Mexico,Mexico,True,100,{None}
+Micronesia Federated States of,Federated States of Micronesia,True,100,{None}
+Moldova,Moldova,True,100,{None}
+Monaco,Monaco,True,100,{None}
+Mongolia,Mongolia,True,100,{None}
+Montenegro,Montenegro,True,100,{None}
+Montserrat,Sierra Leone,False,64,"{'Andorra': 47, 'Botswana': 44, 'Eritrea': 47, 'Honduras': 44, 'Indonesia': 42, 'Monaco': 50, 'Mongolia': 44, 'Montenegro': 60, 'Netherlands': 48, 'Nigeria': 47, 'Serbia': 50, 'Sierra Leone': 64, 'South Ossetiaa': 42}"
+Morocco,Morocco,True,100,{None}
+Mozambique,Mozambique,True,100,{None}
+Namibia,Namibia,True,100,{None}
+Nauru,Nauru,True,100,{None}
+Nepal,Nepal,True,100,{None}
+Netherlands,Netherlands,True,100,{None}
+New Caledonia,North Macedonia,False,64,"{'Afghanistan': 42, 'Albania': 50, 'Algeria': 50, 'Argentina': 45, 'Armenia': 50, 'Azerbaijan': 43, 'Benin': 44, 'Bosnia and Herzegovina': 46, 'Cambodia': 48, 'Cameroon': 48, 'Canada': 42, 'Cape Verde': 43, 'Colombia': 48, 'Dominica': 48, 'Dominican Republic': 45, 'Equatorial Guinea': 47, 'Estonia': 50, 'Indonesia': 45, 'Malawi': 42, 'Maldives': 48, 'Federated States of Micronesia': 42, 'New Zealand': 58, 'North Macedonia': 64, 'Palestine': 55, 'Papua New Guinea': 41, 'Saint Lucia': 42, 'Sierra Leone': 48, 'Slovenia': 48, 'Somalilanda': 42, 'Taiwan': 42, 'United Arab Emirates': 42}"
+New Zealand,New Zealand,True,100,{None}
+Nicaragua,Nicaragua,True,100,{None}
+Niger,Niger,True,100,{None}
+Nigeria,Nigeria,True,100,{None}
+Niue,Niue,True,100,{None}
+Norfolk Island,Norfolk Island,True,100,{None}
+North Macedonia,North Macedonia,True,100,{None}
+Northern Mariana Islands,Cook Islands,False,74,"{'Antigua and Barbuda': 42, 'Bosnia and Herzegovina': 48, 'Cocos (Keeling) Islands': 50, 'Cook Islands': 74, 'North Korea': 46, 'Sovereign Military Order of Maltaa': 41, 'Marshall Islands': 61, 'Mauritania': 41, 'Federated States of Micronesia': 41, 'Norfolk Island': 53, 'North Macedonia': 51, 'Northern Cyprusa': 67, 'Saint Vincent and the Grenadines': 46, 'San Marino': 41, 'São Tomé and Príncipe': 43, 'Singapore': 42, 'Solomon Islands': 64, 'South Africa': 44, 'South Ossetiaa': 47, 'Trinidad and Tobago': 42, 'United Arab Emirates': 41}"
+Norway,Norway,True,100,{None}
+Oman,Oman,True,100,{None}
+Pakistan,Pakistan,True,100,{None}
+Palau,Palau,True,100,{None}
+Panama,Panama,True,100,{None}
+Papua New Guinea,Guinea,True,100,{None}
+Paraguay,Paraguay,True,100,{None}
+Peru,Peru,True,100,{None}
+Philippines,Philippines,True,100,{None}
+Pitcairn Islands,Cook Islands,False,74,"{'Afghanistan': 44, 'Albania': 43, 'Bosnia and Herzegovina': 42, 'Christmas Island': 50, 'Cocos (Keeling) Islands': 61, 'Cook Islands': 74, 'Costa Rica': 46, 'Dominica': 42, 'Dominican Republic': 41, 'East Timor': 46, 'Eswatini': 42, 'Finland': 43, 'Guinea-Bissau': 41, 'Iceland': 43, 'India': 48, 'Indonesia': 48, 'Ireland': 43, 'Liechtenstein': 41, 'Madagascar': 46, 'Malaysia': 42, 'Marshall Islands': 62, 'Norfolk Island': 53, 'Pakistan': 42, 'Saint Kitts and Nevis': 49, 'Saint Lucia': 44, 'São Tomé and Príncipe': 41, 'Slovakia': 42, 'Slovenia': 42, 'Solomon Islands': 64, 'Somalilanda': 44, 'Spain': 48, 'Thailand': 42, 'Transnistriaa': 41, 'Trinidad and Tobago': 46, 'United States': 41, 'Vatican City': 43}"
+Poland,Poland,True,100,{None}
+Portugal,Portugal,True,100,{None}
+Puerto Rico,Costa Rica,False,48,"{'Austria': 44, 'Cameroon': 42, 'Costa Rica': 48, 'East Timor': 48, 'Eritrea': 44, 'Estonia': 44, 'Ethiopia': 42, 'Georgia': 44, 'Mexico': 47, 'Morocco': 44}"
+Qatar,Qatar,True,100,{None}
+Romania,Romania,True,100,{None}
+Russia,Russia,True,100,{None}
+Rwanda,Rwanda,True,100,{None}
+Saint Barthelemy,Saint Lucia,False,62,"{'Artsakha': 42, 'Bahamas': 43, 'Bahrain': 52, 'Botswana': 42, 'Christmas Island': 44, 'Eswatini': 42, 'Ireland': 43, 'Malaysia': 42, 'Myanmar (Burma)': 41, 'Netherlands': 44, 'Palestine': 48, 'Saint Kitts and Nevis': 49, 'Saint Lucia': 62, 'Saint Vincent and the Grenadines': 50, 'San Marino': 46, 'Saudi Arabia': 43, 'South Sudan': 44, 'Thailand': 42, 'United States': 41, 'Vatican City': 43}"
+Saint Helena Ascension and Tristan da Cunha,Saint Lucia,False,62,"{'Antigua and Barbuda': 42, 'Bosnia and Herzegovina': 46, 'Saint Kitts and Nevis': 60, 'Saint Lucia': 62, 'Saint Vincent and the Grenadines': 53, 'United Kingdom and Crown dependencies etc.': 43}"
+Saint Kitts and Nevis,Saint Kitts and Nevis,True,100,{None}
+Saint Lucia,Saint Lucia,True,100,{None}
+Saint Martin,San Marino,False,82,"{'Afghanistan': 43, 'Algeria': 42, 'Argentina': 57, 'Armenia': 42, 'Artsakha': 50, 'Austria': 42, 'Azerbaijan': 45, 'Bahrain': 53, 'Bosnia and Herzegovina': 41, 'Burkina Faso': 42, 'Christmas Island': 43, 'Croatia': 42, 'Equatorial Guinea': 41, 'Eswatini': 50, 'Finland': 42, 'Jamaica': 42, 'Latvia': 44, 'Malawi': 44, 'Malta': 47, 'Mauritania': 55, 'Mauritius': 57, 'North Macedonia': 44, 'Pakistan': 50, 'Romania': 42, 'Saint Kitts and Nevis': 59, 'Saint Lucia': 62, 'Saint Vincent and the Grenadines': 59, 'San Marino': 82, 'Saudi Arabia': 58, 'Somalia': 42, 'Somalilanda': 43, 'South Africa': 50, 'South Sudan': 43, 'Spain': 47, 'Sri Lanka': 48, 'Taiwan': 44, 'Tajikistan': 45, 'Tunisia': 42, 'Turkmenistan': 42, 'Ukraine': 42, 'Vanuatu': 42, 'Vatican City': 42}"
+Saint Pierre and Miquelon,Saint Lucia,False,62,"{'Andorra': 44, 'Antigua and Barbuda': 41, 'Bosnia and Herzegovina': 51, 'Indonesia': 41, 'Sovereign Military Order of Maltaa': 44, 'Federated States of Micronesia': 44, 'Saint Kitts and Nevis': 60, 'Saint Lucia': 62, 'Saint Vincent and the Grenadines': 53, 'São Tomé and Príncipe': 47, 'Sierra Leone': 49, 'Trinidad and Tobago': 41, 'United Kingdom and Crown dependencies etc.': 45}"
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,True,100,{None}
+Samoa,Samoa,True,100,{None}
+San Marino,San Marino,True,100,{None}
+Sao Tome and Principe,São Tomé and Príncipe,False,92,"{'Bosnia and Herzegovina': 42, 'Federated States of Micronesia': 47, 'Saint Kitts and Nevis': 52, 'Saint Vincent and the Grenadines': 53, 'San Marino': 45, 'São Tomé and Príncipe': 92, 'Solomon Islands': 44, 'South Africa': 48, 'Suriname': 41, 'Trinidad and Tobago': 45, 'United Kingdom and Crown dependencies etc.': 48}"
+Saudi Arabia,Saudi Arabia,True,100,{None}
+Senegal,Senegal,True,100,{None}
+Serbia,Serbia,True,100,{None}
+Seychelles,Seychelles,True,100,{None}
+Sierra Leone,Sierra Leone,True,100,{None}
+Singapore,Singapore,True,100,{None}
+Sint Maarten,San Marino,False,64,"{'Afghanistan': 43, 'Albania': 42, 'Argentina': 57, 'Armenia': 53, 'Bahrain': 42, 'Benin': 47, 'North Korea': 43, 'South Korea': 43, 'Liechtenstein': 48, 'Malawi': 44, 'Malaysia': 50, 'Mauritania': 55, 'Mauritius': 48, 'North Macedonia': 52, 'Palestine': 48, 'Romania': 42, 'Saint Kitts and Nevis': 48, 'Saint Lucia': 52, 'Saint Vincent and the Grenadines': 41, 'San Marino': 64, 'Saudi Arabia': 42, 'Sierra Leone': 42, 'South Africa': 42, 'Sri Lanka': 48, 'Tunisia': 42, 'Turkmenistan': 42, 'United Arab Emirates': 50, 'United States': 48}"
+Slovakia,Slovakia,True,100,{None}
+Slovenia,Slovenia,True,100,{None}
+Solomon Islands,Solomon Islands,True,100,{None}
+Somalia,Somalia,True,100,{None}
+South Africa,South Africa,True,100,{None}
+South Sudan,South Sudan,True,100,{None}
+Spain,Spain,True,100,{None}
+Sri Lanka,Sri Lanka,True,100,{None}
+Sudan,South Sudan,True,100,{None}
+Suriname,Suriname,True,100,{None}
+Svalbard,Albania,False,53,"{'Albania': 53, 'Angola': 43, 'Australia': 47, 'Bangladesh': 44, 'Barbados': 50, 'Canada': 43, 'Christmas Island': 42, 'El Salvador': 53, 'Gambia': 43, 'Israel': 43, 'Libya': 46, 'Malawi': 43, 'Malta': 46, 'New Zealand': 42, 'Palau': 46, 'Poland': 43, 'Qatar': 46, 'Samoa': 46, 'Serbia': 43, 'Slovakia': 50, 'Somalia': 53, 'Somalilanda': 53, 'Switzerland': 42, 'Thailand': 50, 'Tuvalu': 43, 'Zambia': 43}"
+Sweden,Sweden,True,100,{None}
+Switzerland,Switzerland,True,100,{None}
+Syria,Syria,True,100,{None}
+Taiwan,Taiwan,True,100,{None}
+Tajikistan,Tajikistan,True,100,{None}
+Tanzania,Tanzania,True,100,{None}
+Thailand,Thailand,True,100,{None}
+Timor-Leste,East Timor,False,86,"{'East Timor': 86, 'Estonia': 44, 'Eswatini': 42, 'Ethiopia': 42, 'Ivory Coast': 55, 'Lesotho': 56, 'Liechtenstein': 50, 'Luxembourg': 48, 'Palestine': 50, 'Sierra Leone': 52, 'United States': 42}"
+Togo,Togo,True,100,{None}
+Tokelau,Tokelau,True,100,{None}
+Tonga,Tonga,True,100,{None}
+Trinidad and Tobago,Trinidad and Tobago,True,100,{None}
+Tunisia,Tunisia,True,100,{None}
+Turkey (Turkiye),Turkey,True,100,{None}
+Turkmenistan,Turkmenistan,True,100,{None}
+Turks and Caicos Islands,Cook Islands,False,74,"{'Antigua and Barbuda': 42, 'Bosnia and Herzegovina': 43, 'Christmas Island': 50, 'Cocos (Keeling) Islands': 62, 'Cook Islands': 74, 'Marshall Islands': 61, 'Federated States of Micronesia': 44, 'Norfolk Island': 47, 'Saint Kitts and Nevis': 53, 'Saint Vincent and the Grenadines': 46, 'San Marino': 41, 'São Tomé and Príncipe': 48, 'Solomon Islands': 64, 'Trinidad and Tobago': 47}"
+Tuvalu,Tuvalu,True,100,{None}
+Uganda,Uganda,True,100,{None}
+Ukraine,Ukraine,True,100,{None}
+United Arab Emirates,United Arab Emirates,True,100,{None}
+United Kingdom,United Kingdom and Crown dependencies etc.,True,100,{None}
+United States,United States,True,100,{None}
+Uruguay,Uruguay,True,100,{None}
+Uzbekistan,Uzbekistan,True,100,{None}
+Vanuatu,Vanuatu,True,100,{None}
+Venezuela,Venezuela,True,100,{None}
+Vietnam,Vietnam,True,100,{None}
+Virgin Islands,Cook Islands,False,74,"{'Argentina': 43, 'Bosnia and Herzegovina': 50, 'Christmas Island': 47, 'Cocos (Keeling) Islands': 67, 'Cook Islands': 74, 'Costa Rica': 42, 'East Timor': 42, 'Finland': 48, 'Guinea-Bissau': 52, 'Iceland': 48, 'India': 42, 'Indonesia': 43, 'Ireland': 48, 'Marshall Islands': 67, 'Norfolk Island': 57, 'Saint Kitts and Nevis': 51, 'Solomon Islands': 67, 'Spain': 42, 'Sri Lanka': 52, 'Thailand': 45, 'Transnistriaa': 44, 'Trinidad and Tobago': 42}"
+Wallis and Futuna,Antigua and Barbuda,False,50,"{'Antigua and Barbuda': 50, 'Australia': 46, 'Bosnia and Herzegovina': 41, 'Burkina Faso': 41, 'Marshall Islands': 48, 'Saint Kitts and Nevis': 47, 'Trinidad and Tobago': 44, 'Tunisia': 42, 'Vanuatu': 42}"
+West Bank,Sri Lanka,False,56,"{'Bangladesh': 53, 'Kazakhstan': 42, 'Pakistan': 47, 'Palestine': 44, 'Saint Kitts and Nevis': 47, 'San Marino': 42, 'São Tomé and Príncipe': 44, 'Sri Lanka': 56, 'Tajikistan': 42, 'Uzbekistan': 42, 'Zimbabwe': 47}"
+World,Jordan,False,55,"{'Ireland': 50, 'Jordan': 55, 'Moldova': 50, 'Poland': 55, 'Portugal': 46, 'Switzerland': 50}"
+Yemen,Yemen,True,100,{None}
+Zambia,Zambia,True,100,{None}
+Zimbabwe,Zimbabwe,True,100,{None}

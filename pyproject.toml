@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "py1"
+version = "0.1.0"
+description = ""
+authors = ["sn <126475703+rsns-0@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+thefuzz = "^0.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
